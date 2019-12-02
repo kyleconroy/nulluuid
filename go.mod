@@ -1,4 +1,4 @@
-module github.com/kyleconroy/uuid
+module github.com/kyleconroy/nulluuid
 
 go 1.13
 
